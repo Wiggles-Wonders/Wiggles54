@@ -1,0 +1,1 @@
+// Home screen is defined in App.js for simplicity.

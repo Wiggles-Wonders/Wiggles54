@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Wiggles & Wonders",
+    "slug": "wiggles-wonders",
+    "version": "0.1.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5FAFF"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
